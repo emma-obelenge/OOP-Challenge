@@ -107,11 +107,11 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 - **Email**: [obeleemmanuel@gmail.com](mailto:obeleemmanuel@gmail.com)
 - **GitHub**: [@emma-obelenge](https://github.com/emma-obelenge)
 
-#### [Add Your Name Here]
+#### [Maragia Rodgers]
 
-- **Role**: [Your Role]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Role**: Review correct workability of the code and Error Correction/debugging. 
+- **Email**: [r28081999m@gmail.com]
+- **GitHub**: [@Rockjunior]
 
 #### [Add Your Name Here]
 
