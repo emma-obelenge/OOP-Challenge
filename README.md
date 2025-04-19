@@ -133,6 +133,12 @@ This project was developed as part of the **PLP Academy Group Assignment**. Belo
 - **Email**: [evanwayodi19@gmail.com](mailto:evanwayodi19@gmail.com)
 - **GitHub**: [Evan19-CoDe](https://github.com/Evan19-CoDe)
 
+#### Stephen Muhoho
+
+- **Role**: Status and Bonus Methods.
+- **Email**: [muhoho.skariuki@gmail.com](mailto:muhoho.skariuki@gmail.com)
+- **GitHub**: [RiuK-47](https://github.com/RiuK-47)
+
 ## Future Improvements
 
 - **Graphical User Interface (GUI)**: Introduce a visually appealing GUI to improve user interaction and experience.
